@@ -5,7 +5,6 @@
 - 🐱‍🏍 See my work live at https://codequotient.com/profile/aditi
 
 Hi everyone, I am Aditi Joshi. I am from India.
-
 All my projects are visible on GitHub with screenshots. 
 Do have a look (❁´◡`❁).
 
