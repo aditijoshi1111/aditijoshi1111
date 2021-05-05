@@ -1,11 +1,11 @@
 # 👋 Hi, Aditi Joshi here
 - 🌱 I’m currently learning Full Stack Web Development
-- 🌷 Connect with me on [LinkedIN](https://www.linkedin.com/in/aditi-joshi-285135168)
-- 📧 Mail me at aditijoshi1111.cse18@chitkara.edu.in
-- 🐱‍🏍 See my work live at [CodeQuotient](https://codequotient.com/profile/aditi)
+- 🌷 Connect with me on **[LinkedIN]**(https://www.linkedin.com/in/aditi-joshi-285135168)
+- 📧 Mail me at **aditijoshi1111.cse18@chitkara.edu.in**
+- 🐱‍🏍 See my work live at **[CodeQuotient]**(https://codequotient.com/profile/aditi)
 
-Hi everyone, I am Aditi Joshi. I am an Computer Science Engineering student from India.
-All my projects are visible on GitHub with screenshots. 
+Hi everyone, I am Aditi Joshi. I am an *Computer Science Engineering* student from India.<br/>
+All my projects are visible on *GitHub with screenshots*.<br/> 
 Do have a look (❁´◡`❁).
 
 # Skills:
